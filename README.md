@@ -27,9 +27,9 @@ I'm interested in working with complex systems because they allow me to understa
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/naim-apaza" target="blank">
+      <a href="https://www.linkedin.com/in/naim-apaza" target="blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Naim"/></a>
-      <a href="naimlautaroapaza@gmail.com" target="blank">
+      <a href="mailto:naimlautaroapaza@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Naim"/></a>
     </p>
   </samp>
@@ -37,7 +37,7 @@ I'm interested in working with complex systems because they allow me to understa
 </details>
 
 <details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;tttTechnologies I'm learning and using
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Technologies I'm learning and using
 </summary>
  <div>
  <samp>
